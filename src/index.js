@@ -8,7 +8,7 @@ import { HashRouter as Router } from "react-router-dom"
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   
-    <Router basename={process.env.solmazsm.github.io/my-app}>
+    <Router >
     <App />
   
   </Router>

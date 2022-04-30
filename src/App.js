@@ -1,6 +1,7 @@
 import React,{useState,useEffect} from 'react';
 import './App.css';
 import Data  from "./data.json";
+import { BrowserRoute as Router } from "react-router-dom"
 
 const loadData = () => JSON.parse(JSON.stringify(Data));
 function App() {

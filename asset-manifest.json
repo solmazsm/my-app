@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "//solmazsm.github.io/my-app/static/css/main.ff853609.css",
-    "main.js": "//solmazsm.github.io/my-app/static/js/main.3d45f1ea.js",
+    "main.js": "//solmazsm.github.io/my-app/static/js/main.fcd888b8.js",
     "static/js/787.28cb0dcd.chunk.js": "//solmazsm.github.io/my-app/static/js/787.28cb0dcd.chunk.js",
     "index.html": "//solmazsm.github.io/my-app/index.html",
     "main.ff853609.css.map": "//solmazsm.github.io/my-app/static/css/main.ff853609.css.map",
-    "main.3d45f1ea.js.map": "//solmazsm.github.io/my-app/static/js/main.3d45f1ea.js.map",
+    "main.fcd888b8.js.map": "//solmazsm.github.io/my-app/static/js/main.fcd888b8.js.map",
     "787.28cb0dcd.chunk.js.map": "//solmazsm.github.io/my-app/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff853609.css",
-    "static/js/main.3d45f1ea.js"
+    "static/js/main.fcd888b8.js"
   ]
 }
